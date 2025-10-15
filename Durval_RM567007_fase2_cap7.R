@@ -1,3 +1,10 @@
+#Durval_RM567007_fase2_cap7_V1.R
+
+# GRUPO COM OS SEGUINTES ALUNOS:
+# Durval de Oliveira Dorta Junior - RM567007
+# Murilo Ferreira Borges - RM567738
+
+
 library(tibble)
 library(DescTools)
 library(ggplot2)
