@@ -1,6 +1,6 @@
 # Análise de Produtividade de Cana-de-Açúcar
 
-## Descrição
+## Descrição:
 
 Análise comparativa da produtividade (TCH - Toneladas de Cana por Hectare) entre processos Manual e Mecanizado de plantio.
 
